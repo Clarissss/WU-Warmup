@@ -57,9 +57,3 @@ Karena jika `x*e1 + y*e2 = 1`, maka:
 ```
 c1^x * c2^y ≡ (m^e1)^x * (m^e2)^y ≡ m^(x*e1 + y*e2) ≡ m^1 ≡ m (mod n)
 ```
-
-## Pencegahan
-
-- Jangan pakai modulus sama dengan eksponen berbeda
-- Gunakan padding yang proper (OAEP)
-- Rotasi key secara berkala
