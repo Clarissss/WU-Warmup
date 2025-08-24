@@ -1,1 +1,1 @@
-cheers mate
+<center>Cheers Mate</center>
