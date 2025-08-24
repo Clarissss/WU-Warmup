@@ -1,6 +1,6 @@
 # Excel Macro Analysis
 
-Writeup untuk CTF challenge forensik yang melibatkan analisis VBA Macro dalam file Excel.
+Writeup untuk CTF challenge reverse engineering yang melibatkan analisis VBA Macro dalam file Excel.
 
 ## Challenge
 
